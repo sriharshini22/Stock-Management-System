@@ -70,12 +70,12 @@ Download the provided source code zip file.
 
 INSTALLATION: 
 
-Open your XAMPP/WAMP's Control Panel and start Apache and MySQL.
-Extract the downloaded source code zip file.
-If you are using XAMPP, copy the extracted source code folder and paste it into the XAMPP's "htdocs" directory. And If you are using WAMP, paste it into the "sms" directory.
-Browse the PHPMyAdmin in a browser. i.e. http://localhost/phpmyadmin
-Create a new database naming login_signup_php.
-Import the provided SQL file. The file is known as login_signup_php.sql located inside the database folder.
-Browse the Stock Management System in a browser,i.e. http://localhost/sms/.
+1. Open your XAMPP/WAMP's Control Panel and start Apache and MySQL.
+2. Extract the downloaded source code zip file.
+3. If you are using XAMPP, copy the extracted source code folder and paste it into the XAMPP's "htdocs" directory. And If you are using WAMP, paste it into the "sms" directory.
+4. Browse the PHPMyAdmin in a browser. i.e. http://localhost/phpmyadmin
+5. Create a new database naming login_signup_php.
+6. Import the provided SQL file. The file is known as login_signup_php.sql located inside the database folder.
+7. Browse the Stock Management System in a browser,i.e. http://localhost/sms/.
 
 
